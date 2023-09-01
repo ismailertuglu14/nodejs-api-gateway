@@ -13,11 +13,11 @@ To run this project in a local environment, you'll need the following:
 1. Clone this repository or download it as a ZIP file:
 
    ```shell
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/ismailertuglu14/nodejs-api-gateway.git
    
 2. Navigate to the project directory:
    ```shell
-   git clone https://github.com/yourusername/your-repo.git
+   cd nodejs-api-gateway
 3. Install project dependencies:
    ```shell
    npm install
