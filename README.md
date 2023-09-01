@@ -22,7 +22,6 @@ To run this project in a local environment, you'll need the following:
    ```shell
    npm install
 
-
 ## Routing Settings
 1. This API gateway includes an array of route settings called routes. Each route setting defines how a specific API route should be routed and modified. Here's an example route setting:
    ```shell
